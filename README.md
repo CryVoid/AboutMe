@@ -16,5 +16,5 @@ Passionate cybersecurity learner with intermediate skills in Penetration testing
 
 ## 📫 Contact Me
 - Email: oussamaaattar90@email.com
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BBdDgzMunQPqYOViELG9W0g%3D%3D)
+- [LinkedIn](https://www.linkedin.com/in/oussama-aattar-5635b329a)
 - [TryHackMe](https://tryhackme.com/p/CryVoid)
